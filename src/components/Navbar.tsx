@@ -16,8 +16,8 @@ const Navbar = () => {
             <div className="flex space-x-6">
               <Link to="/" className="hover:text-teal-200 transition-colors">Home</Link>
               <Link to="/services" className="hover:text-teal-200 transition-colors">Services</Link>
-              <Link to="/about" className="hover:text-teal-200 transition-colors">About Us</Link>
-              <Link to="/contact" className="hover:text-teal-200 transition-colors">Contact Us</Link>
+              <Link to="/about" className="hover:text-teal-200 transition-colors">About</Link>
+              <Link to="/contact" className="hover:text-teal-200 transition-colors">Contact</Link>
             </div>
             {/* Sign In Button - Link can be added later */}
             <button className="flex items-center space-x-2 bg-white text-teal-600 px-4 py-2 rounded-lg hover:bg-teal-50 transition-colors">
