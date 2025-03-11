@@ -49,7 +49,7 @@ const Contact = () => {
                   <h3 className="font-semibold text-lg">Working Hours</h3>
                   <p className="text-gray-600 text-lg">
                     Monday - Saturday: 9:00 AM - 1:00
-                    PM&nbsp;&nbsp;&nbsp;&nbsp;4PM - 8PM
+                    PM&nbsp;&nbsp;&nbsp;&nbsp;4:00 PM - 8:00 PM
                     <br />
                     Sunday: Closed
                   </p>
