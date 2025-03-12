@@ -1,5 +1,5 @@
 import React from "react";
-import drImage from "../dr.jpeg"; // Adjust path if needed
+import drImage from "../dr.jpeg"; 
 import mustafaImage from "../mustafa.jpeg";
 
 const About = () => {

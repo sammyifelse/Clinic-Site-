@@ -17,10 +17,15 @@ const Navbar = () => {
             <Link to="/services" className="text-sm sm:text-base hover:text-teal-200 transition-colors">Services</Link>
             <Link to="/about" className="text-sm sm:text-base hover:text-teal-200 transition-colors">About</Link>
             <Link to="/contact" className="text-sm sm:text-base hover:text-teal-200 transition-colors">Contact</Link>
-            <button className="flex items-center space-x-1 sm:space-x-2 bg-white text-teal-600 px-2 sm:px-4 py-1.5 sm:py-2 rounded-lg hover:bg-teal-50 transition-colors text-sm sm:text-base">
+            
+            {/* Sign In Button - Opens Login in Same Tab */}
+            <a
+              href="https://clinic-frontend.netlify.app/login"
+              className="flex items-center space-x-1 sm:space-x-2 bg-white text-teal-600 px-2 sm:px-4 py-1.5 sm:py-2 rounded-lg hover:bg-teal-50 transition-colors text-sm sm:text-base"
+            >
               <LogIn className="h-4 w-4" />
               <span className="hidden sm:inline">Sign In</span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
