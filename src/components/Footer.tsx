@@ -17,16 +17,17 @@ const Footer = () => {
           <div className="flex flex-col space-y-2">
             <div className="flex items-center space-x-2">
               <Phone className="h-4 w-4" />
-              <span>+91 XXXXXXXXXX</span>
+              <span>+91 8011138786</span>
             </div>
             <div className="flex items-center space-x-2">
               <Mail className="h-4 w-4" />
-              <span>contact@shifaclinic.com</span>
+              <span>mustafa.ali.physio@gmail.com</span>
             </div>
           </div>
         </div>
         <div className="text-center mt-8">
           <p>&copy; {new Date().getFullYear()} Shifa Clinic. All rights reserved.</p>
+          <p className="text-sm">Created by <span className="font-semibold">Samar</span></p>
         </div>
       </div>
     </footer>
