@@ -15,4 +15,4 @@ This repository contains the source code for the Shifa Clinic website (static).
 
 ## Deployment
 
-The website is deployed at [website URL]. 
+  The website is deployed at [here](https://shifa-clinic.netlify.app). 
