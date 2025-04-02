@@ -18,13 +18,13 @@ To ensure secure access and data protection, JWT (JSON Web Token) authentication
 
 ## Technologies Used 🛠️
 
--   **[Specify Backend Technology/Framework]:** (e.g., Node.js with Express.js, Python with Django/Flask)
--   **[Specify Frontend Technology/Framework]:** (e.g., React.js, Angular, Vue.js)
--   **[Specify Database]:** (e.g., MongoDB, PostgreSQL, MySQL)
+-   **[Backend Technology/Framework]:** Node.js with Express.js
+-   **[Frontend Technology/Framework]:** React.js, Angular, Vue.js
+-   **[Database]:** MongoDB
 -   **JWT (JSON Web Token) 🔑:** For secure authentication.
--   **[Specify Styling Library/Framework]:** (e.g., Tailwind CSS, Bootstrap, Material UI)
--   **[Specify Data Fetching Library]:** (e.g., Axios, Fetch)
--   **[Specify Other Relevant Technologies]:** (e.g., dotenv for environment variables)
+-   **[Styling Library/Framework]:** Tailwind CSS, Bootstrap, Material UI
+-   **[Data Fetching Library]:** Axios, Fetch
+-   **[Other Relevant Technologies]:** dotenv for environment variables
 
 ## Getting Started 🏁
 
